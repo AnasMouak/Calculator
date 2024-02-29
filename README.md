@@ -21,14 +21,14 @@ Result: -5.0
 ## Error Handling
 The calculator program provides informative error messages for invalid expressions or operators. Here are some examples:
 
-# Invalid operator =
+### Invalid operator =
 
 ```bash
 $ ./main.py "2.3*2=2"
 Error: Invalid operator =
 ```
 
-# Invalid operator p
+### Invalid operator p
 ```bash
 $ ./main.py "2.3*2p2"
 Error: Invalid operator p
